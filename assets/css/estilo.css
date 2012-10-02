@@ -1,0 +1,27 @@
+
+/*cuerpo*/
+
+
+
+#fondo{
+	position: relative;
+	margin-left: 8%;
+
+width: 1000px;
+height: 600px;
+	min-height: 500px;
+	background-image: url(../images.jpg);
+	
+}
+#foot{
+	position: absolute;
+	bottom: 5%;
+}
+
+
+#container{
+	margin-left: 10%;
+	margin-top: 5%;
+	width: 800px;
+	min-height: 500px;
+}
